@@ -1,60 +1,50 @@
-<h1 align="center">Привет, я Илья 👋</h1>
-<h3 align="center">Backend-разработчик на Go</h3>
+### Hi there 👋 I'm Ilya (gox7)
 
----
+I'm a backend developer focused on building scalable, secure and maintainable systems in Go.
+I work on libraries, microservices and infrastructure-level tools.
+I’m constantly exploring distributed systems and backend architecture design.
 
-### ☀️ Обо мне
-- 🔭 Работаю с Go: создаю библиотеки, микросервисы и пет-проекты
-- 🌱 Изучаю REST, gRPC, PostgreSQL, Redis, Kafka, Docker, Kubernetes, JWT
-- 📞 Связь: [Telegram](https://t.me/sex1nk) / [Почта](mailto:maslennikov0120@gmail.com)
+Contributor to my own OSS projects and open to collaboration.
 
----
-
-### ⚙️ Технологии
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50px" title="Go"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" title="PostgreSQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50px" title="Docker"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50px" title="Kubernetes"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50px" title="GitHub"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" width="50px" title="gRPC"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50px" title="Linux"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="50px" title="Kafka"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50px" title="NGINX"/>
+<div style="display: flex; width: 100%; justify-content: center; gap: 8px;">
+  <img style="height: 180px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gox7&theme=transparent"/>
+  <img style="height: 180px;" src="https://streak-stats.demolab.com/?user=gox7&theme=transparent&border=transparent&stroke=2e343b&currStreakLabel=77909c&sideLabels=77909c&card_height=180"/>
 </div>
 
 ---
 
-### 📽️ Интересные проекты
-- 📶 [Micro-Services](https://github.com/gox7/microservices) — Микросервисы для управления эвентами с встроенной системой авторизации.  
-  **Функционал:** регистрация/логин/проверка пользователей, создание/получение/удаление эвентов, логирование.  
-  **Технологии:** Go, Gin, PostgreSQL, AES256, Docker / Docker Compose.
+#### Tech I use
 
-- 👤 [Authorization (REST API)](https://github.com/gox7/authorization) / [Authorization (gRPC)](https://github.com/gox7/authorizationrpc) — Сервисы авторизации с контролем сессий (refresh/access) и поддержкой JWT, включая swagger-документацию.  
-  **Функционал:** регистрация/логин/проверка пользователей, refresh/logout токенов, rate-limit, логирование.  
-  **Технологии:** Go, Gin/gRPC, PostgreSQL, JWT, Swagger, Docker / Docker Compose.
-
-- 📞 [Unix](https://github.com/gox7/unix) — Библиотека для низкоуровневого взаимодействия с Unix-системами через syscall.  
-  **Функционал:** работа с файловой системой, процессами, системной информацией, памятью и сетью (socket).  
-  **Технологии:** Go, Syscall.
-
-- 🛜 [Vega](https://github.com/gox7/vega) — Легковесная библиотека для HTTP-роутинга повверх HTTP.                                                                                                                          
-  **Функционал:** маршрутизация по методам, рендеринг JSON/YAML/XML, биндинг данных, группы маршрутов.  
-  **Технологии:** Go, HTTP.
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=blue)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=blue)
+![gRPC](https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=blue)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=blue)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=blue)
 
 ---
 
-### 📊 Статистика и активность
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gox7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gox7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gox7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+#### Featured projects
+
+* [**Micro-Services**](https://github.com/gox7/microservices) — event management platform with built-in authorization.
+  *Go, Gin, PostgreSQL, AES-256, Docker.*
+
+* [**Auth (REST)**](https://github.com/gox7/authorization) / [**Auth (gRPC)**](https://github.com/gox7/authorization) — authentication and session control with JWT.
+  *Go, Gin/gRPC, PostgreSQL, JWT, Docker.*
+
+* [**Vega**](https://github.com/gox7/vega) — lightweight HTTP router built over Go’s standard library.
+  *Go, HTTP.*
+
+* [**Unix**](https://github.com/gox7/unix) — low-level system interaction library using syscalls.
+  *Go, Syscall.*
 
 ---
 
-<p align="center">
-  🙌 <b>Спасибо, что заглянул! Открыт для предложений и интересных проектов.</b>
-</p>
+📬 Contact me:
+[Telegram](https://t.me/sex1nk) • [Email](mailto:maslennikov0120@gmail.com)
