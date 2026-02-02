@@ -25,10 +25,7 @@ Contributor to my own OSS projects and open to collaboration.
 ---
 
 #### Featured projects
-* [**AnonChat**](https://github.com/dockgo-dev/anonchat) - full-featured anonymous chat system with microservices architecture.                                                                                            *Go, React, WebSocekt PostgreSQL, JWT, Docker*
-
-* [**Micro-Services**](https://github.com/dockgo-dev/microservices) — event management platform with built-in authorization.
-  *Go, Gin, PostgreSQL, AES-256, Docker.*
+* [**ChatRoom**](https://github.com/dockgo-dev/anonchat) - full-featured anonymous chat system with microservices architecture.                                                                                            *Go, React, WebSocekt PostgreSQL, JWT, Docker*
 
 * [**Auth (REST)**](https://github.com/dockgo-dev/authorization) / [**Auth (gRPC)**](https://github.com/gox7/authorization) — authentication and session control with JWT.
   *Go, Gin/gRPC, PostgreSQL, JWT, Docker.*
